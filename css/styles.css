@@ -77,10 +77,10 @@ h5 {
 .btn-margin-right {
   margin-right: 20px; }
 
-section.intro, section.features-extra, section.sign-up {
+section.intro, section.features-extra {
   background: #fff; }
 
-section.features, section.blog-intro, section.blog {
+section.features, section.blog-intro, section.blog, section.sign-up {
   background: #F3F4F8; }
 
 /* ==========================================================================
@@ -348,7 +348,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url("../img/hero.jpg") center center;
+  background: url("../img/companies/tp-1.jpg") center center;
   background-size: cover;
   position: relative; }
   .hero .down-arrow a {
@@ -491,15 +491,15 @@ Features-stack
     border-bottom: none; }
   .features .ipad-wrap {
     width: 706px;
-    height: 1002px;
-    background: url("../img/ipad-device.png") no-repeat center center;
+    height: 1202px;
+    background: url("../img/1.jpg") no-repeat center center;
     z-index: 1; }
   .features .iphone-wrap {
-    width: 304px;
+    width: 484px;
     height: 620px;
-    background: url("../img/iphone6.png") no-repeat center center;
+    background: url("../img/makeinindia.png") no-repeat center center;
     position: absolute;
-    left: 530px;
+    left: 330px;
     bottom: 129px;
     z-index: 2; }
   .features .device-showcase {

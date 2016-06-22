@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"max-",
+				"max-height"
+			],
+			[
 				"team",
 				"team_lead"
 			],
@@ -510,10 +514,6 @@
 			[
 				"Ht",
 				"Http404	class"
-			],
-			[
-				"lecu",
-				"lecture_id"
 			]
 		]
 	},
@@ -523,15 +523,39 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 24420,
+				"buffer_size": 33679,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/flexslider.css",
+			"file": "config.codekit",
 			"settings":
 			{
-				"buffer_size": 6745,
+				"buffer_size": 40007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 29642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 25614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/queries.css",
+			"settings":
+			{
+				"buffer_size": 5969,
 				"line_ending": "Unix"
 			}
 		}
@@ -570,7 +594,9 @@
 	"expanded_folders":
 	[
 		"/Users/sebastinsanty/Desktop/CS/Work/Precifine",
-		"/Users/sebastinsanty/Desktop/CS/Work/Precifine/css"
+		"/Users/sebastinsanty/Desktop/CS/Work/Precifine/css",
+		"/Users/sebastinsanty/Desktop/CS/Work/Precifine/img",
+		"/Users/sebastinsanty/Desktop/CS/Work/Precifine/js"
 	],
 	"file_history":
 	[
@@ -721,6 +747,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"url(",
+			"url",
+			"ipad",
+			"pad",
+			"hero-content",
+			"h6",
+			"h5",
+			" contact",
+			" contact\">\n                    <i class = \"fa fa-phone fa-2x\"></i>",
+			"h4",
+			"sign-up",
+			"features",
+			"intro-content",
+			"testimonial-slider",
+			"features-extra",
+			"iphone-wrap",
 			"s;",
 			"s",
 			"#xe",
@@ -832,23 +874,7 @@
 			"questions",
 			"krtoor6jqe",
 			"block",
-			"#wistia",
-			"id",
-			"wistia",
-			"lecture",
-			"wistia",
-			"wisita",
-			"url",
-			"filename",
-			"wistia",
-			"id",
-			"video",
-			"url",
-			"projects",
-			"filename",
-			"password",
-			"favicon",
-			"fav"
+			"#wistia"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -876,7 +902,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -885,15 +911,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 24420,
+						"buffer_size": 33679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12519,
-								12519
+								4838,
+								4838
 							]
 						],
 						"settings":
@@ -903,27 +929,56 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3531.0,
+						"translation.y": 776.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/flexslider.css",
-					"semi_transient": true,
+					"file": "config.codekit",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6745,
+						"buffer_size": 40007,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								548,
-								549
+								14604,
+								14604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6833.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8864,
+								8864
 							]
 						],
 						"settings":
@@ -933,10 +988,69 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2718.0,
+						"translation.y": 4968.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9015,
+								9015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Seti_UI/icons/Langs/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6116.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/queries.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5505,
+								5505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4118.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1001,7 +1115,7 @@
 		[
 			[
 				"",
-				"~/Desktop/CS/Python/Django/swd/src/swd.sublime-project"
+				"~/Desktop/CS/Work/Waves/waves.sublime-project"
 			]
 		],
 		"width": 380.0
